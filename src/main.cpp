@@ -14,6 +14,8 @@
 #include "Math/Spline2.h"
 
 int main() {
+	// Hello!
+
 //	GraphicsMgr& g = GraphicsMgr::getInstance();
 //	Camera* cam = g.getCamera();
 //	cam->pos.z = 1; // Cam is automatically pointing in the -z-direction btw
